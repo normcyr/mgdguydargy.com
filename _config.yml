@@ -12,3 +12,5 @@ github_username:  jekyll
 
 # Build settings
 markdown: kramdown
+
+media_folder: "images/uploads" # Media files will be stored in the repo under images/uploads
